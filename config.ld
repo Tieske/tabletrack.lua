@@ -1,0 +1,11 @@
+project='tabletrack.lua'
+title='Track table access'
+description='Module to track table accesses for debug purposes'
+format='discount'
+file='./src/'
+dir='docs'
+readme='readme.md'
+sort=true
+sort_modules=true
+all=false
+style='./docs/'

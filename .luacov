@@ -1,0 +1,6 @@
+modules = {
+   ["tabletrack"] = "src/tabletrack.lua",
+   ["tabletrack.*"] = "src"
+}
+runreport = true
+deletestats = true
